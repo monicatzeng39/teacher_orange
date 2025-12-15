@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Noto Sans TC", sans-serif;
+  background: #f9fafb;
+  color: #111827;
+}
+
+.container {
+  max-width: 720px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.subtitle {
+  color: #6b7280;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 100%;
+  min-height: 120px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 14px;
+  cursor: pointer;
+}
+
+pre {
+  background: #111827;
+  color: #e5e7eb;
+  padding: 12px;
+  margin-top: 16px;
+  white-space: pre-wrap;
+}
