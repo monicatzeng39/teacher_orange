@@ -1,0 +1,5 @@
+{
+  "name": "Teacher Orange - AI Cycling Coach",
+  "description": "An intelligent, real-time cycling and spinning coach that diagnoses issues through conversation using the Gemini API.",
+  "requestFramePermissions": []
+}
